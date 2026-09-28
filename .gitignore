@@ -1,0 +1,7 @@
+*.class
+.idea/
+tools/
+evidence/
+report/
+output/
+tmp/
