@@ -5,3 +5,8 @@ evidence/
 report/
 output/
 tmp/
+opencode.json
+opencode.jsonc
+.opencode/
+.env
+.env.*
